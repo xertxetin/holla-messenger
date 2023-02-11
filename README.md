@@ -143,7 +143,7 @@ RTCMultiConnection If you like it, don't forget to support it. Free to use and o
 </p>
 <h4>License</h4>
 <p>
-<a href="https://github.com/muaz-khan/RTCMultiConnection">RTCMultiConnection</a> is released under <a href="https://github.com/muaz-khan/RTCMultiConnection/blob/master/LICENSE.md">MIT licence</a> . Copyright (c) <a href="https://muazkhan.com/">Muaz Khan.</a></p>
+<a href="https://github.com/muaz-khan/RTCMultiConnection">RTCMultiConnection</a> is released under <a href="https://github.com/muaz-khan/RTCMultiConnection/blob/master/LICENSE.md">MIT licence</a> . Copyright (c) <a href="https://muazkhan.com:9001/demos/">Muaz Khan.</a></p>
 
 <h4 align="center">Developed Independently by Me Force.</h4>
 <div align="center"> Holla Messenger BETA</div>
