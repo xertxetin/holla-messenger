@@ -1,26 +1,26 @@
 <h1 align="center">Holla Messenger</h1>
 <p align="center">
-<img src="https://raw.githubusercontent.com/meforce/holla-messenger/main/image/ic_launcher_round.png" style="display: block;margin-left: auto;margin-right: auto;" data-canonical-src="https://raw.githubusercontent.com/meforce/holla-messenger/main/image/ic_launcher_round.png" width="200" height="200" align="center"/><br><br>
+<img src="https://raw.githubusercontent.com/cetinmert/holla-messenger/main/image/ic_launcher_round.png" style="display: block;margin-left: auto;margin-right: auto;" data-canonical-src="https://raw.githubusercontent.com/cetinmert/holla-messenger/main/image/ic_launcher_round.png" width="200" height="200" align="center"/><br><br>
 Holla Messenger WebRTC
 <br><br> 
-<a href="https://github.com/meforce/holla-messenger/releases/latest">
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/holla-messenger?color=tuquoise&label=Latest&logo=github&logoColor=white&style=for-the-badge"></a>
+<a href="https://github.com/cetinmert/holla-messenger/releases/latest">
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/cetinmert/holla-messenger?color=tuquoise&label=Latest&logo=github&logoColor=white&style=for-the-badge"></a>
 <a href="https://discord.gg/dmWPGE4JFM"><img alt="Discord" src="https://img.shields.io/discord/876934826186395658?color=%237289DA&label=discord&logo=Discord&logoColor=white&style=for-the-badge"></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/meforce/holla-messenger/main/image/cover.jpg"/>
+<img src="https://raw.githubusercontent.com/cetinmert/holla-messenger/main/image/cover.jpg"/>
 
 
 ## Download
 
 ### Google Play - APK
 
-Download `.apk` File [Releases Page](https://github.com/meforce/holla-messenger/releases/latest).<br>
+Download `.apk` File [Releases Page](https://github.com/cetinmert/holla-messenger/releases/latest).<br>
 
 <a href="https://play.google.com/store/apps/details?id=com.hollamessenger.app"> 
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/holla-messenger?color=blue&label=CLICK-GOOGLE-PLAY&logo=git&logoColor=white&style=for-the-badge"></a>
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/cetinmert/holla-messenger?color=blue&label=CLICK-GOOGLE-PLAY&logo=git&logoColor=white&style=for-the-badge"></a>
 
-<p>Direct <a href="https://meforce.github.io/holla-messenger/">[Holla Messenger Web]</a></p>
+<p>Direct <a href="https://cetinmert.github.io/holla-messenger/">[Holla Messenger Web]</a></p>
 
 ## Holla Messenger
 
@@ -149,7 +149,7 @@ RTCMultiConnection If you like it, don't forget to support it. Free to use and o
 <div align="center"> Holla Messenger BETA</div>
 <h6 align="center">
 Developed by. <a href="https://www.instagram.com/mertcetin.real">Mert Çetin</a> <br>
-Published documents of this project github (https://github.com/meforce/holla-messenger) Distribute outside of it is currently prohibited.<br><br>
+Published documents of this project github (https://github.com/cetinmert/holla-messenger) Distribute outside of it is currently prohibited.<br><br>
 Me Force All rights reserved.<br>
 Is there a problem ? Contact Us Now. <b>mertcetin.official@gmail.com</b><br>
 More, Buy The Project -> <a href="https://codecanyon.net/user/mert_cetin/portfolio">Holla Messenger Buy</a>
